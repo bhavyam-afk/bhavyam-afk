@@ -6,7 +6,7 @@ I am a Full-stack Web Developer who is exploring businesses in tech related fiel
  
  🔭 I’m planning for a Project **BrandOrbit**.
  
- 🌱 
+ 🌱 Favourite Tech Stack is MERN but with SQL Databases.
  
  👯 I’m looking for a Flutter and ML-based Engineers **Converting my Web App to Mobile app**.
  
