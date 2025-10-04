@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/187855064?v=4" width="100%" height="20%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Full-stack Web Developer who is exploring businesses in tech related fields . currently working with a team on a project which emphasises on connectivity of people accross globe and heavily intended towaards small to big businesses for their marketing.
  
  🔭 I’m planning for a Project **BrandOrbit**.
